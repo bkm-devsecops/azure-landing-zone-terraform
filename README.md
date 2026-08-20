@@ -292,5 +292,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <p align="center">
-  <b>Built with ❤️ by DevOps Insider Team for Enterprise Azure Adoption</b>
+  <b>Built with ❤️ by Brajendra Mishra for Enterprise Azure Adoption</b>
 </p>
